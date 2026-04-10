@@ -28,7 +28,7 @@ export default function ProfileSection() {
             }}
             onError={(e) => {
               // High-end fallback if image doesn't exist
-              (e.target as HTMLImageElement).src = "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1200&auto=format&fit=crop";
+              (e.target as HTMLImageElement).src = "/portrait.jpg";
             }}
           />
           

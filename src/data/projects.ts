@@ -100,19 +100,25 @@ export const projects: Project[] = [
     ]
   },
   {
-    "title": "Healing Tableware",
-    "slug": "healing-tableware",
+    "title": "POP!POP! - Healing Tableware",
+    "slug": "pop-pop-healing-tableware",
     "summary": "A tableware project exploring emotional comfort, healing, and tactile making.",
     "focus": ["Wellbeing"],
     "output": ["Product"],
     "method": ["Prototype", "Making"],
     "keywords": ["tableware", "mental health", "healing", "comfort", "making"],
     "visibleTags": ["Product", "Wellbeing", "Healing"],
-    "thumbnail": "https://picsum.photos/seed/healing/800/600",
-    "coverImage": "https://picsum.photos/seed/healing-cover/1920/1080",
+    "thumbnail": "/projects/pop!pop!-healing tableware/thumb.jpg",
+    "coverImage": "/projects/pop!pop!-healing tableware/cover.jpg",
     "gallery": [
-      "https://picsum.photos/seed/healing-1/1200/800",
-      "https://picsum.photos/seed/healing-2/1200/800"
+      "/projects/pop-pop-healing-tableware/gallery-01.jpg",
+      "/projects/pop-pop-healing-tableware/gallery-02.jpg",
+      "/projects/pop-pop-healing-tableware/gallery-03.jpg",
+      "/projects/pop-pop-healing-tableware/gallery-04.jpg",
+      "/projects/pop-pop-healing-tableware/gallery-05.jpg",
+      "/projects/pop-pop-healing-tableware/gallery-06.jpg",
+      "/projects/pop-pop-healing-tableware/gallery-07.jpg",
+      "/projects/pop-pop-healing-tableware/gallery-08.jpg",
     ],
     "detailSections": [
       {
