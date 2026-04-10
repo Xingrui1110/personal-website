@@ -125,7 +125,7 @@ export default function ProjectDetail() {
               <h2 className="text-2xl lg:text-3xl font-display font-medium text-charcoal-deep">
                 Gallery
               </h2>
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+              <div className="grid grid-cols-1 gap-8">
                 {project.gallery.map((img, idx) => (
                   <motion.div
                     key={idx}
@@ -133,13 +133,13 @@ export default function ProjectDetail() {
                     whileInView={{ opacity: 1, scale: 1 }}
                     viewport={{ once: true }}
                     transition={{ delay: idx * 0.1, duration: 0.6 }}
-                    className="rounded-2xl overflow-hidden border border-border-lilac shadow-sm aspect-[4/3]"
+                    className="rounded-2xl overflow-hidden border border-border-lilac shadow-sm bg-white"
                   >
                     <img
                       src={img}
                       alt={`${project.title} gallery ${idx + 1}`}
                       referrerPolicy="no-referrer"
-                      className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
+                      className="block w-full h-auto transition-transform duration-700 hover:scale-[1.01]"
                     />
                   </motion.div>
                 ))}
