@@ -108,8 +108,8 @@ export const projects: Project[] = [
     "method": ["Prototype", "Making"],
     "keywords": ["tableware", "mental health", "healing", "comfort", "making"],
     "visibleTags": ["Product", "Wellbeing", "Healing"],
-    "thumbnail": "/projects/pop!pop!-healing tableware/thumb.jpg",
-    "coverImage": "/projects/pop!pop!-healing tableware/cover.jpg",
+    "thumbnail": "/projects/pop-pop-healing-tableware/thumb.jpg",
+    "coverImage": "/projects/pop-pop-healing-tableware/cover.jpg",
     "gallery": [
       "/projects/pop-pop-healing-tableware/gallery-01.jpg",
       "/projects/pop-pop-healing-tableware/gallery-02.jpg",
