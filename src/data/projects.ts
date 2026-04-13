@@ -78,24 +78,28 @@ export const projects: Project[] = [
     ]
   },
   {
-    "title": "Existence Installation",
-    "slug": "existence-installation",
-    "summary": "A speculative installation for personal expression through artistic experimentation and making.",
+    "title": "Toadflare - Wearable device",
+    "slug": "toadflare-wearable-device",
+    "summary": "A wearable device that turns suppressed anger into visible presence through breath-driven inflation.",
     "focus": ["Personal Expression"],
     "output": ["Installation"],
     "method": ["Speculative", "Making", "Prototype"],
     "keywords": ["installation", "art", "speculative design", "personal expression", "making"],
     "visibleTags": ["Installation", "Speculative", "Artistic"],
-    "thumbnail": "https://picsum.photos/seed/existence/800/600",
-    "coverImage": "https://picsum.photos/seed/existence-cover/1920/1080",
+    "thumbnail": "/projects/toadflare-wearable-device/thumb.jpg",
+    "coverImage": "/projects/toadflare-wearable-device/cover.jpg",
     "gallery": [
-      "https://picsum.photos/seed/existence-1/1200/800",
-      "https://picsum.photos/seed/existence-2/1200/800"
+      "/projects/toadflare-wearable-device/gallery-01.jpg",
+      "/projects/toadflare-wearable-device/gallery-02.jpg",
+      "/projects/toadflare-wearable-device/gallery-03.jpg",
+      "/projects/toadflare-wearable-device/gallery-04.jpg",
+      "/projects/toadflare-wearable-device/gallery-05.jpg",
+      "/projects/toadflare-wearable-device/gallery-06.jpg",
     ],
     "detailSections": [
       {
         "title": "Overview",
-        "text": "An artistic and speculative installation project centered on self-expression, material making, and conceptual exploration."
+        "text": "In social life, a sense of existence is often shaped by recognition from others. When this recognition is absent, the self can become muted, producing a feeling of being overlooked or emotionally erased. In such moments, impulse may emerge as a raw expression of the inner self, yet it is often restrained by social norms and fear of judgment. This wearable device responds to that tension between suppression and expression. By sensing angry or intensified breathing triggered by neglect, it activates an inflatable airbag that expands outward, echoing the defensive display of a toad puffing up its body. The device transforms an invisible emotional state into a visible bodily presence, making internal tension perceptible in physical space. In this way, it acts not only as a wearable object, but also as a medium through which suppressed feelings are externalised and the right to be noticed is reclaimed."
       }
     ]
   },
@@ -123,29 +127,34 @@ export const projects: Project[] = [
     "detailSections": [
       {
         "title": "Overview",
-        "text": "A product project that connects tactile form-making with emotional comfort and a healing dining experience."
+        "text": "POP!POP! is a tableware concept designed for young people living under constant pressure and fast-paced routines. In everyday life, meals are often one of the few moments of pause, yet they rarely function as genuine opportunities for emotional release. Responding to this condition, POP!POP! introduces a soft, smooth, deformable, and repeatable tactile experience into daily eating and drinking rituals.Its warm, animal-like forms create a gentle and comforting presence, encouraging users to naturally pinch, press, and poke the objects while dining. These small and often unconscious gestures are transformed into subtle moments of sensory relief. In this way, POP!POP! reimagines tableware not only as a functional object, but also as a soothing companion that supports self-soothing and emotional release within everyday life."
       }
     ]
   },
   {
-    "title": "Tea Table",
-    "slug": "tea-table",
-    "summary": "An interactive furniture concept that combines wellbeing, healing, and spatial experience.",
+    "title": "MoodTea - Immersive Space",
+    "slug": "moodtea-immersive-space",
+    "summary": "An AR tea-drinking space that supports relaxation, emotional wellbeing, and immersive tea experiences.",
     "focus": ["Wellbeing"],
     "output": ["Furniture", "Product"],
     "method": ["Prototype", "Making"],
     "keywords": ["tea table", "interactive space", "wellbeing", "healing", "health", "furniture"],
     "visibleTags": ["Furniture", "Wellbeing", "Interactive Space"],
-    "thumbnail": "https://picsum.photos/seed/teatable/800/600",
-    "coverImage": "https://picsum.photos/seed/teatable-cover/1920/1080",
+    "thumbnail": "/projects/moodtea-immersive-space/thumb.jpg",
+    "coverImage": "/projects/moodtea-immersive-space/cover.jpg",
     "gallery": [
-      "https://picsum.photos/seed/teatable-1/1200/800",
-      "https://picsum.photos/seed/teatable-2/1200/800"
+      "/projects/moodtea-immersive-space/gallery-01.jpg",
+      "/projects/moodtea-immersive-space/gallery-02.jpg",
+      "/projects/moodtea-immersive-space/gallery-03.jpg",
+      "/projects/moodtea-immersive-space/gallery-04.jpg",
+      "/projects/moodtea-immersive-space/gallery-05.jpg",
+      "/projects/moodtea-immersive-space/gallery-06.jpg",
+      "/projects/moodtea-immersive-space/gallery-07.jpg",
     ],
     "detailSections": [
       {
         "title": "Overview",
-        "text": "A furniture and spatial interaction project designed around healing, sensory atmosphere, and wellbeing."
+        "text": "This project addresses the growing experience of Chronic Fatigue Syndrome among young people, a condition often associated with emotional strain and physical fatigue. While tea has the potential to relieve these symptoms, many young people engage with it less frequently due to limited familiarity and a lack of engaging sensory experience. In response, the design proposes an AR tea-drinking space that guides users in choosing teas based on their emotional and physical condition, while creating an immersive visual environment that transforms tea drinking into a more soothing, restorative, and emotionally supportive experience."
       }
     ]
   },
