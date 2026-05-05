@@ -250,24 +250,33 @@ export const projects: Project[] = [
     ]
   },
   {
-    "title": "CarryHelp",
+    "title": "CarryHelp - A Multimodal Inclusive Assistance System",
     "slug": "carryhelp",
-    "summary": "A co-designed assistive support concept for blind and low-vision users in public settings.",
+    "summary": "A co-designed multimodal help system for visually impaired public-space users.",
     "focus": ["Disability", "Public Service"],
     "output": ["Service/System", "Interface"],
     "method": ["Co-design", "User Research", "Prototype"],
     "keywords": ["co-design", "blind", "low vision", "public setting", "assistive system", "HCI", "iteration"],
     "visibleTags": ["Co-design", "Disability", "Public Service"],
-    "thumbnail": "https://picsum.photos/seed/carryhelp/800/600",
-    "coverImage": "https://picsum.photos/seed/carryhelp-cover/1920/1080",
+    "thumbnail": "/projects/carryhelp/thumb.jpg",
+    "coverImage": "/projects/carryhelp/cover.jpg",
     "gallery": [
-      "https://picsum.photos/seed/carryhelp-1/1200/800",
-      "https://picsum.photos/seed/carryhelp-2/1200/800"
+      "/projects/carryhelp/gallery-01.jpg",
+      "/projects/carryhelp/gallery-02.jpg",
+      "/projects/carryhelp/gallery-03.jpg",
+      "/projects/carryhelp/gallery-04.jpg",
+      "/projects/carryhelp/gallery-05.jpg",
+      "/projects/carryhelp/gallery-06.jpg",
+      "/projects/carryhelp/gallery-07.jpg",
+      "/projects/carryhelp/gallery-08.jpg",
+      "/projects/carryhelp/gallery-09.jpg",
+      "/projects/carryhelp/gallery-10.jpg",
+      "/projects/carryhelp/gallery-11.jpg",
     ],
     "detailSections": [
       {
         "title": "Overview",
-        "text": "A public assistive support concept co-designed around accessibility, dignity, and real-world usability for blind and low-vision users."
+        "text": "CarryHelp is a co-designed multimodal assistance system that enables blind and low-vision users to request help discreetly and independently in public venues. Developed through interviews, concept testing, and prototype evaluation with visually impaired co-designers, the system combines a fixed help point, a portable help device, multimodal feedback, and a staff-side response system. Through tactile, audio, visual, and location-based interactions, CarryHelp aims to make public-space assistance more dignified, efficient, and user-led."
       }
     ]
   },
