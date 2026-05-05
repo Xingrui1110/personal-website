@@ -56,7 +56,7 @@ export const METHOD_OPTIONS = [
 
 export const projects: Project[] = [
   {
-    "title": "Wine Cabinet",
+    "title": "ModTea - Modular Home Bar Rack",
     "slug": "wine-cabinet",
     "summary": "A modular cabinet design exploring form, personalization, and spatial presence.",
     "focus": ["Personal Expression"],
@@ -64,16 +64,19 @@ export const projects: Project[] = [
     "method": ["Prototype", "Making"],
     "keywords": ["modular", "form design", "personalization", "cabinet", "spatial presence"],
     "visibleTags": ["Product", "Furniture", "Modular"],
-    "thumbnail": "https://picsum.photos/seed/wine-cabinet/800/600",
-    "coverImage": "https://picsum.photos/seed/wine-cabinet-cover/1920/1080",
+    "thumbnail": "/projects/modbar/thumb.jpg",
+    "coverImage": "/projects/modbar/cover.jpg",
     "gallery": [
-      "https://picsum.photos/seed/wine-cabinet-1/1200/800",
-      "https://picsum.photos/seed/wine-cabinet-2/1200/800"
+      "/projects/modbar/gallery-01.jpg",
+      "/projects/modbar/gallery-02.jpg",
+      "/projects/modbar/gallery-03.jpg",
+      "/projects/modbar/gallery-04.jpg",
+      "/projects/modbar/gallery-05.jpg",
     ],
     "detailSections": [
       {
         "title": "Overview",
-        "text": "A furniture and product design project focused on modularity, formal exploration, and personalization."
+        "text": "As home bartending becomes increasingly popular among young people, limited living space and a growing variety of tools often lead to cluttered surfaces and a lack of atmosphere. ModBar responds to these challenges through zoned organization and a flexible modular structure, allowing it to adapt to different spatial needs. Its warm material palette and softly considered form create a cozy, relaxed mood, transforming storage into part of the home bar experience. Beyond bartending tools and bottles, the rack can also accommodate everyday items, making it suitable for both social moments and daily living. Overall, ModBar balances order, flexibility, and ambiance, supporting young users in creating a more organized and enjoyable home bartending space."
       }
     ]
   },
