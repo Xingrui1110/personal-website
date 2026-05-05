@@ -302,24 +302,32 @@ export const projects: Project[] = [
     ]
   },
   {
-    "title": "Food Recycling Campaign",
-    "slug": "food-recycling-campaign",
-    "summary": "A local sustainability campaign project combining social engagement and AI-supported ideas.",
+    "title": "Community Circular Lab - An Inclusive Food Waste Campaign",
+    "slug": "food-recycling",
+    "summary": "Making food waste sorting clearer through inclusive storytelling and rewards.",
     "focus": ["Sustainability", "Public Service"],
     "output": ["Campaign", "Service/System"],
     "method": ["Strategy", "AI-based", "User Research"],
     "keywords": ["food recycling", "campaign", "local community", "sustainability", "AI", "public engagement"],
     "visibleTags": ["Sustainability", "Campaign", "Local Community"],
-    "thumbnail": "https://picsum.photos/seed/recycling/800/600",
-    "coverImage": "https://picsum.photos/seed/recycling-cover/1920/1080",
+    "thumbnail": "/projects/food-recycling/thumb.jpg",
+    "coverImage": "/projects/food-recycling/cover.jpg",
     "gallery": [
-      "https://picsum.photos/seed/recycling-1/1200/800",
-      "https://picsum.photos/seed/recycling-2/1200/800"
+      "/projects/food-recycling/gallery-01.jpg",
+      "/projects/food-recycling/gallery-02.jpg",
+      "/projects/food-recycling/gallery-03.jpg",
+      "/projects/food-recycling/gallery-04.jpg",
+      "/projects/food-recycling/gallery-05.jpg",
+      "/projects/food-recycling/gallery-06.jpg",
+      "/projects/food-recycling/gallery-07.jpg",
+      "/projects/food-recycling/gallery-08.jpg",
+      "/projects/food-recycling/gallery-09.jpg",
+      "/projects/food-recycling/gallery-10.jpg",
     ],
     "detailSections": [
       {
         "title": "Overview",
-        "text": "A sustainability-oriented local campaign project combining research, public engagement, and AI-supported concept development."
+        "text": "Community Circular Lab is an inclusive food waste awareness campaign designed to reduce confusion and improve sorting confidence in the Queen Elizabeth Olympic Park Innovation District. The project responds to barriers such as high cognitive load, unclear sorting rules, and low motivation by combining interactive storytelling, real-context learning, AI-guided sorting, and rewards. Through a pop-up campaign model, it turns food waste recycling from a confusing individual task into a visible, educational, and motivating public experience."
       }
     ]
   }
