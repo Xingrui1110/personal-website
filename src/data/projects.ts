@@ -280,24 +280,31 @@ export const projects: Project[] = [
     ]
   },
   {
-    "title": "Social Anxiety Board Game",
-    "slug": "social-anxiety-board-game",
-    "summary": "A physical game concept exploring social anxiety, supported interaction, and inclusive play.",
+    "title": "Guess me - Social Anxiety Card Game",
+    "slug": "guess-me",
+    "summary": "Making social anxiety visible through playful cards and supportive dialogue.",
     "focus": ["Wellbeing", "Disability"],
     "output": ["Game", "Product"],
     "method": ["Prototype", "Making"],
     "keywords": ["social anxiety", "board game", "inclusive play", "physical interaction", "card game", "wellbeing"],
     "visibleTags": ["Game", "Wellbeing", "Social Interaction"],
-    "thumbnail": "https://picsum.photos/seed/boardgame/800/600",
-    "coverImage": "https://picsum.photos/seed/boardgame-cover/1920/1080",
+    "thumbnail": "/projects/guess-me/thumb.jpg",
+    "coverImage": "/projects/guess-me/cover.jpg",
     "gallery": [
-      "https://picsum.photos/seed/boardgame-1/1200/800",
-      "https://picsum.photos/seed/boardgame-2/1200/800"
+      "/projects/guess-me/gallery-01.jpg",
+      "/projects/guess-me/gallery-02.jpg",
+      "/projects/guess-me/gallery-03.jpg",
+      "/projects/guess-me/gallery-04.jpg",
+      "/projects/guess-me/gallery-05.jpg",
+      "/projects/guess-me/gallery-06.jpg",
+      "/projects/guess-me/gallery-07.jpg",
+      "/projects/guess-me/gallery-08.jpg",
+      "/projects/guess-me/gallery-09.jpg",
     ],
     "detailSections": [
       {
         "title": "Overview",
-        "text": "A game-based concept using physical interaction and supported play to explore social anxiety and inclusion."
+        "text": "Guess Me is a card-based game designed to make social anxiety more visible, understandable, and discussable among university students. Through scenario, emotion, and support cards, players take turns guessing hidden social anxiety experiences and reflecting on possible supportive responses. The game transforms a sensitive mental health topic into a playful and low-pressure group activity. By encouraging perspective-taking, conversation, and mutual understanding, it aims to reduce stigma and help students recognise that social anxiety is not simply shyness, but an often hidden experience that can affect study, relationships, and everyday participation."
       }
     ]
   },
