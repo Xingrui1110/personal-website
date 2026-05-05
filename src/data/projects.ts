@@ -271,7 +271,6 @@ export const projects: Project[] = [
       "/projects/carryhelp/gallery-08.jpg",
       "/projects/carryhelp/gallery-09.jpg",
       "/projects/carryhelp/gallery-10.jpg",
-      "/projects/carryhelp/gallery-11.jpg",
     ],
     "detailSections": [
       {
